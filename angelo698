@@ -13,7 +13,7 @@ standard library.
 - [License](#license)
 - [Links](#links)
 
-<a name="about"></a>
+<a name="about"></angelo698>
 ## About Abseil
 
 Abseil is an open-source collection of C++ library code designed to augment
@@ -31,7 +31,7 @@ just found that many of these utilities serve a purpose within our code
 base, and we now want to provide those resources to the C++ community as
 a whole.
 
-<a name="quickstart"></a>
+<a name="quickstart"></angelo698>
 ## Quickstart
 
 If you want to just get started, make sure you at least run through the
@@ -39,7 +39,7 @@ If you want to just get started, make sure you at least run through the
 contains information about setting up your development environment, downloading
 the Abseil code, running tests, and getting a simple binary working.
 
-<a name="build"></a>
+<a name="build"></angelo698>
 ## Building Abseil
 
 [Bazel](https://bazel.build) is the official build system for Abseil,
@@ -47,7 +47,7 @@ which is supported on most major platforms (Linux, Windows, macOS, for example)
 and compilers. See the [quickstart](https://abseil.io/docs/cpp/quickstart) for
 more information on building Abseil using the Bazel build system.
 
-<a name="cmake"></a>
+<a name="cmake"></angelo698>
 If you require CMake support, please check the
 [CMake build instructions](CMake/README.md).
 
